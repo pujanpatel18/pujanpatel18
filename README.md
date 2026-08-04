@@ -44,7 +44,7 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,mysql,py,java,cpp,c,html,css,tailwind,git,github,docker,vscode,figma,linux&perline=7" alt="Tech Arsenal" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c,react,nextjs,html,css,tailwind,vue,nodejs,express,mongodb,mysql,firebase,postgres,git,github,docker,vscode,figma,linux&perline=12" alt="Tech Arsenal" />
   </a>
 </p>
 

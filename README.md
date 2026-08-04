@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Pujan%20Patel&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20%7C%20AI%20Developer%20%7C%20Cybersecurity%20Learner&descSize=18&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Pujan%20Patel&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Software%20Developer%20%7C%20Full%20Stack%20%26%20AI%20%7C%20Passionate%20Problem%20Solver&descSize=18&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
 
 <br/>
 
 <!-- ANIMATED TYPING SUBTITLE -->
 <a href="https://github.com/pujanpatel18">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Hi+There!+%F0%9F%90%A7+I'm+Pujan+Patel;Computer+Science+Engineering+Student+%F0%9F%8E%93;AI+Developer+%26+Tech+Explorer+%F0%9F%A4%96;Full+Stack+Web+Developer+%F0%9F%92%BB;Cybersecurity+%26+CTF+Learner+%F0%9F%9B%A1%FE%8F;Open+Source+Enthusiast+%E2%9D%A4%FE%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=const+developer+%3D+%22Pujan+Patel%22;while+(alive)+%7B+learn()+%26%26+build()+%26%26+innovate()+%7D;skills.push(%22Full+Stack%22%2C+%22AI%22%2C+%22Software+Development%22);const+solve+%3D+(problem)+%3D%3E+optimizedSolution;console.log(%22Welcome+to+my+GitHub+profile!%22)" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -16,9 +16,6 @@
 <p align="center">
   <a href="https://github.com/pujanpatel18">
     <img src="https://img.shields.io/github/followers/pujanpatel18?label=Followers&logo=github&style=for-the-badge&color=8A2BE2&labelColor=0D1117" alt="Followers" />
-  </a>
-  <a href="https://github.com/pujanpatel18?tab=stars">
-    <img src="https://img.shields.io/github/stars/pujanpatel18?label=Total%20Stars&logo=github&style=for-the-badge&color=00D2FF&labelColor=0D1117" alt="Stars" />
   </a>
   <a href="https://komarev.com/ghpvc/?username=pujanpatel18&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS">
     <img src="https://komarev.com/ghpvc/?username=pujanpatel18&color=9333EA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -47,7 +44,7 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,tailwind,react,nextjs,nodejs,express,mongodb,mysql,firebase,git,github,vscode,docker,postman,figma,vercel,netlify,linux" alt="Tech Arsenal" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c,react,nextjs,html,css,tailwind,vue,nodejs,express,mongodb,mysql,firebase,postgres,git,github,docker,vscode,figma,linux" alt="Tech Arsenal" />
   </a>
 </p>
 
@@ -57,7 +54,7 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
 
 <div align="center">
   <a href="https://github.com/pujanpatel18">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pujanpatel18&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=38BDF8&line=A855F7" alt="Contribution Graph" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pujanpatel18&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=10B981" alt="Contribution Graph" width="95%" />
   </a>
 </div>
 
@@ -97,11 +94,7 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
 
 <div align="center">
 
-### ⭐ From Pujan Patel — Thanks for stopping by!
-
-Thanks for visiting my GitHub profile. I appreciate your time and support. Feel free to connect with me and follow my journey as I continue learning, building, and growing as a developer.
-
-✨ Happy Coding!
+### ⭐ From [Pujan Patel](https://github.com/pujanpatel18) — Thanks for stopping by!
 
 <br/>
 

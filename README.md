@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Pujan%20Patel&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Software%20Developer%20%7C%20Full%20Stack%20%26%20AI%20%7C%20Passionate%20Problem%20Solver&descSize=18&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Pujan%20Patel&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Software%20Developer%20%7C%20Full%20Stack%20%26amp%3B%20AI%20%7C%20Passionate%20Problem%20Solver&descSize=18&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
 
 <br/>
 
@@ -44,7 +44,7 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c,react,nextjs,html,css,tailwind,vue,nodejs,express,mongodb,mysql,firebase,postgres,git,github,docker,vscode,figma,linux" alt="Tech Arsenal" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,mysql,py,java,cpp,c,html,css,tailwind,git,github,docker,vscode,figma,linux&perline=7" alt="Tech Arsenal" />
   </a>
 </p>
 
@@ -58,9 +58,14 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
   </a>
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
+
+### 🐍 Contribution Snake
+
+<br/>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pujanpatel18/pujanpatel18/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pujanpatel18/pujanpatel18/output/github-contribution-grid-snake.svg">

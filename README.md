@@ -54,7 +54,7 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
 
 <div align="center">
   <a href="https://github.com/pujanpatel18">
-    <img src="https://github-readme-streak-stats-flax.vercel.app/?user=pujanpatel18&theme=dark&background=0D1117&border=38BDF8&stroke=38BDF8&ring=8B5CF6&fire=8B5CF6&currStreakNum=38BDF8&sideNums=38BDF8&sideLabels=94A3B8&dates=64748B&border_radius=16" alt="Patel Pujan's GitHub Streak & Analytics" width="95%" />
+    <img src="https://github-readme-streak-stats-flax.vercel.app/?user=pujanpatel18&theme=dark&background=0D1117&border=38BDF8&stroke=38BDF8&ring=8B5CF6&fire=8B5CF6&currStreakNum=38BDF8&sideNums=38BDF8&sideLabels=94A3B8&dates=64748B&border_radius=16" alt="Patel Pujan's GitHub Streak & Analytics" width="75%" />
   </a>
 </div>
 

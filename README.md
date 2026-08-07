@@ -26,7 +26,7 @@
 
 <hr/>
 
-## 💫 About Me
+##  About Me
 
 I'm **Patel Pujan**, currently pursuing my **2nd year of Computer Science Engineering** at **Parul University, Vadodara, Gujarat**.
 

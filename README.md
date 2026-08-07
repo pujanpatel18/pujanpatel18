@@ -35,7 +35,6 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
 ### 🎯 Goals
 
 - 🚀 Build impactful real-world projects
-- 🌍 Contribute to Open Source
 - 📚 Keep learning and growing as a Software Developer
 
 <hr/>

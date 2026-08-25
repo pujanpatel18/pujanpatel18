@@ -24,7 +24,9 @@
 
 </div>
 
-<hr/>
+<p align="center">
+  <img src="./assets/animated-red-divider.gif" width="100%" alt="Animated red divider">
+</p>
 
 ##  About Me
 
@@ -37,7 +39,9 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
 - 🚀 Build impactful real-world projects
 - 📚 Keep learning and growing as a Software Developer
 
-<hr/>
+<p align="center">
+  <img src="./assets/animated-red-divider.gif" width="100%" alt="Animated red divider">
+</p>
 
 ## 🖥️ Tech Arsenal
 
@@ -47,7 +51,9 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
   </a>
 </p>
 
-<hr/>
+<p align="center">
+  <img src="./assets/animated-red-divider.gif" width="100%" alt="Animated red divider">
+</p>
 
 ## 📊 GitHub Analytics
 
@@ -80,7 +86,9 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
   </picture>
 </div>
 
-<hr/>
+<p align="center">
+  <img src="./assets/animated-red-divider.gif" width="100%" alt="Animated red divider">
+</p>
 
 ## 🌐 Let's Connect
 
@@ -102,7 +110,9 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
   </a>
 </p>
 
----
+<p align="center">
+  <img src="./assets/animated-red-divider.gif" width="100%" alt="Animated red divider">
+</p>
 
 <div align="center">
 

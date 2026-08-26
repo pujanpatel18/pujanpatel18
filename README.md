@@ -28,6 +28,35 @@
   <img src="./assets/animated-red-divider.gif" width="100%" alt="Animated red divider">
 </p>
 
+## 👤 Developer Profile
+
+<div align="center">
+<table width="95%" border="0">
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="180" style="border-radius: 12px;" alt="Developer GIF"/>
+    </td>
+    <td width="70%" valign="top">
+      <pre style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; color: #c9d1d9; font-family: 'JetBrains Mono', monospace; font-size: 14px; line-height: 1.5; text-align: left;">
+<b><font color="#00F0FF">pujan@patel-systems</font></b>
+<font color="#7000FF">--------------------</font>
+<b>OS</b>: B.E. Computer Science & Engineering (2026 - 2029)
+<b>Host</b>: Parul University | Vadodara, Gujarat, India 🇮🇳
+<b>Kernel</b>: Node.js | Express.js
+<b>Uptime</b>: Vadodara, Gujarat, India 🇮🇳
+<b>Shell</b>: TypeScript | JavaScript | Python | C++ | Java | C
+<b>Status</b>: Active • Full-Stack + AI/ML Developer
+<b>Mission</b>: Building practical software, AI-powered applications & scalable solutions 🚀
+      </pre>
+    </td>
+  </tr>
+</table>
+</div>
+
+<p align="center">
+  <img src="./assets/animated-red-divider.gif" width="100%" alt="Animated red divider">
+</p>
+
 ##  About Me
 
 I'm **Patel Pujan**, currently pursuing my **2nd year of Computer Science Engineering** at **Parul University, Vadodara, Gujarat**.

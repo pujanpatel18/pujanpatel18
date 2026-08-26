@@ -49,45 +49,74 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
 
 ### 💻 Programming Languages
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c" alt="Programming Languages" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/>
 </p>
 
 <br/>
 
 ### 🌐 Frontend Development
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind" alt="Frontend Development" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue.js"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="Vite"/>
 </p>
 
 <br/>
 
-### ⚙️ Backend & Databases
+### ⚙️ Backend Development
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" alt="Backend & Databases" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js"/>
+</p>
+
+<br/>
+
+### 🗄️ Databases & Backend Services
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase"/>
+</p>
+
+<br/>
+
+### 🤖 AI / ML & Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="scikit-learn"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=numpy" width="40" height="40" alt="NumPy"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" alt="Pandas"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" alt="Google Gemini"/>
 </p>
 
 <br/>
 
 ### 🛠️ Tools & Platforms
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" alt="Tools & Platforms" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman"/>
 </p>
 
 <br/>
 
 ### 🎨 Design & Prototyping
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Design & Prototyping" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=canva" width="40" height="40" alt="Canva"/>
 </p>
 
 </div>

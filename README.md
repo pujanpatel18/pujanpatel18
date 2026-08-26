@@ -45,11 +45,52 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
 
 ## 🖥️ Tech Arsenal
 
+<div align="center">
+
+### 💻 Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c,react,nextjs,html,css,tailwind,vue,nodejs,express,mongodb,mysql,firebase,postgres,git,github,docker,vscode,figma,linux&perline=12" alt="Tech Arsenal" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c" alt="Programming Languages" />
   </a>
 </p>
+
+<br/>
+
+### 🌐 Frontend Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind" alt="Frontend Development" />
+  </a>
+</p>
+
+<br/>
+
+### ⚙️ Backend & Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" alt="Backend & Databases" />
+  </a>
+</p>
+
+<br/>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" alt="Tools & Platforms" />
+  </a>
+</p>
+
+<br/>
+
+### 🎨 Design & Prototyping
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Design & Prototyping" />
+  </a>
+</p>
+
+</div>
 
 <p align="center">
   <img src="./assets/animated-red-divider.gif" width="100%" alt="Animated red divider">

@@ -7,7 +7,7 @@
 
 <!-- ANIMATED TYPING SUBTITLE -->
 <a href="https://github.com/pujanpatel18">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=const+developer+%3D+%22Patel+Pujan%22;while+(alive)+%7B+learn()+%26%26+build()+%26%26+innovate()+%7D;skills.push(%22Full+Stack%22%2C+%22AI%22%2C+%22Software+Development%22);const+solve+%3D+(problem)+%3D%3E+optimizedSolution;console.log(%22Welcome+to+my+GitHub+profile!%22)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=const+developer+%3D+%22Patel+Pujan%22;%F0%9F%8E%93+CSE+Student+%40+Parul+University;while+(alive)+%7B+learn()+%26%26+build()+%26%26+innovate()+%7D;skills.push(%22Full+Stack%22%2C+%22AI%22%2C+%22Software+Development%22);const+solve+%3D+(problem)+%3D%3E+optimizedSolution;console.log(%22Welcome+to+my+GitHub+profile!%22)" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -62,6 +62,22 @@
 I'm **Patel Pujan**, currently pursuing my **2nd year of Computer Science Engineering** at **Parul University, Vadodara, Gujarat**.
 
 I'm an aspiring **Software Developer** currently learning **Full Stack Web Development** to build modern, scalable, and user-friendly web applications. I enjoy learning new technologies, solving real-world problems, and continuously improving my development skills.
+
+<p align="center">
+  <img src="./assets/animated-red-divider.gif" width="100%" alt="Animated red divider">
+</p>
+
+## 🎓 Education
+
+*   🏛️ **Parul University** `2026 — 2029`
+    *   *Bachelor of Engineering in Computer Science & Engineering (B.E. CSE)*
+    *   **Admission:** Lateral Entry • **Status:** Currently Pursuing • **Location:** Vadodara, Gujarat, India 🇮🇳
+*   🏫 **Parul Polytechnic Institute**
+    *   *Diploma in Computer Engineering*
+
+<p align="center">
+  <img src="./assets/animated-red-divider.gif" width="100%" alt="Animated red divider">
+</p>
 
 ### 🎯 Goals
 

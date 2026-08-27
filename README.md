@@ -7,7 +7,7 @@
 
 <!-- ANIMATED TYPING SUBTITLE -->
 <a href="https://github.com/pujanpatel18">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=const+developer+%3D+%22Patel+Pujan%22;%F0%9F%8E%93+CSE+Student+%40+Parul+University;while+(alive)+%7B+learn()+%26%26+build()+%26%26+innovate()+%7D;skills.push(%22Full+Stack%22%2C+%22AI%22%2C+%22Software+Development%22);const+solve+%3D+(problem)+%3D%3E+optimizedSolution;console.log(%22Welcome+to+my+GitHub+profile!%22)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=const+developer+%3D+%22Patel+Pujan%22;%F0%9F%8E%93+CSE+Student+%40+Parul+University;while+(alive)+%7B+learn()+%26%26+build()+%26%26+innovate()+%7D;skills.push(%22Full+Stack%22%2C+%22AI%22%2C+%22Software+Development%22);const+solve+%3D+(problem)+%3D%3E+optimizedSolution;Keep+Optimizing;console.log(%22Welcome+to+my+GitHub+profile!%22)" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -51,6 +51,12 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+### 🌌 Engineering Impact
+- 🎓 **CSE Undergrad**: *Applying computer science principles to build practical software, AI-powered applications, and real-world solutions.*
+
 </div>
 
 <p align="center">
@@ -69,11 +75,15 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
 
 ## 🎓 Education
 
-*   🏛️ **Parul University** `2026 — 2029`
+*   🎓 **B.E. Computer Science & Engineering** `2026 – 2029 (Expected)`
+    *   **Parul University** • Vadodara, Gujarat, India 🇮🇳
     *   *Bachelor of Engineering in Computer Science & Engineering (B.E. CSE)*
-    *   **Admission:** Lateral Entry • **Status:** Currently Pursuing • **Location:** Vadodara, Gujarat, India 🇮🇳
-*   🏫 **Parul Polytechnic Institute**
-    *   *Diploma in Computer Engineering*
+    *   **Admission:** Lateral Entry • **Status:** Currently Pursuing
+*   💻 **Diploma in Computer Engineering** `2023 – 2026`
+    *   **Parul Polytechnic Institute** • Vadodara, Gujarat, India
+    *   *Core programming, database management, software development, web technologies, software testing, and AI/ML fundamentals.*
+*   🏫 **Secondary Schooling** `2021 – 2023`
+    *   *Built a foundation in Mathematics, Science, Computer Fundamentals, and Information Technology.*
 
 <p align="center">
   <img src="./assets/animated-red-divider.gif" width="100%" alt="Animated red divider">
@@ -135,12 +145,18 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
 
 <br/>
 
-### 🤖 AI / ML & Data
+### 🤖 AI / ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="scikit-learn"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=numpy" width="40" height="40" alt="NumPy"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" alt="Pandas"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" height="40" alt="PyTorch"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" height="40" alt="scikit-learn"/>
+</p>
+
+<br/>
+
+### 📊 Libraries, AI & Analytics
+<p align="center">
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="40" height="40" alt="NumPy"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="40" height="40" alt="Pandas"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" alt="Google Gemini"/>
 </p>
 
@@ -161,7 +177,7 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
 ### 🎨 Design & Prototyping
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=canva" width="40" height="40" alt="Canva"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40" alt="Canva"/>
 </p>
 
 </div>
@@ -174,7 +190,7 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
 
 <div align="center">
   <a href="https://github.com/pujanpatel18">
-    <img src="https://github-readme-streak-stats-flax.vercel.app/?user=pujanpatel18&theme=dark&background=0D1117&border=38BDF8&stroke=38BDF8&ring=8B5CF6&fire=8B5CF6&currStreakNum=38BDF8&sideNums=38BDF8&sideLabels=94A3B8&dates=64748B&border_radius=16" alt="Patel Pujan's GitHub Streak & Analytics" width="75%" />
+    <img src="https://github-readme-streak-stats-flax.vercel.app/?user=pujanpatel18&theme=dark&background=0D1117&border=FF8C42&stroke=FF8C42&ring=FF8C42&fire=FF8C42&currStreakNum=FF8C42&sideNums=FF8C42&sideLabels=FB923C&dates=64748B&border_radius=16" alt="Patel Pujan's GitHub Streak & Analytics" width="75%" />
   </a>
 </div>
 
@@ -182,7 +198,7 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
 
 <div align="center">
   <a href="https://github.com/pujanpatel18">
-    <img src="https://github-activity-graph.vercel.app/graph?username=pujanpatel18&theme=react-dark&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=10B981&area=true&hide_border=true" alt="Contribution Graph" width="95%" style="border: 2px solid #38BDF8; border-radius: 16px; padding: 8px; box-shadow: 0 0 15px rgba(56, 189, 248, 0.3);" />
+    <img src="https://github-activity-graph.vercel.app/graph?username=pujanpatel18&theme=react-dark&bg_color=0D1117&color=FF8C42&line=FF8C42&point=F97316&area=true&hide_border=true" alt="Contribution Graph" width="95%" style="border: 2px solid #FF8C42; border-radius: 16px; padding: 8px; box-shadow: 0 0 15px rgba(255, 140, 66, 0.3);" />
   </a>
 </div>
 

@@ -7,7 +7,7 @@
 
 <!-- ANIMATED TYPING SUBTITLE -->
 <a href="https://github.com/pujanpatel18">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=const+developer+%3D+%22Patel+Pujan%22;%F0%9F%8E%93+CSE+Student+%40+Parul+University;while+(alive)+%7B+learn()+%26%26+build()+%26%26+innovate()+%7D;skills.push(%22Full+Stack%22%2C+%22AI%22%2C+%22Software+Development%22);const+solve+%3D+(problem)+%3D%3E+optimizedSolution;console.log(%22Welcome+to+my+GitHub+profile!%22);Keep+Optimizing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=const+developer+%3D+%22Patel+Pujan%22;%F0%9F%8E%93+CSE+Student+%40+Parul+University;while+(alive)+%7B+learn()+%26%26+build()+%26%26+innovate()+%7D;skills.push(%22Full+Stack%22%2C+%22AI%22%2C+%22Software+Development%22);const+solve+%3D+(problem)+%3D%3E+optimizedSolution;console.log(%22Welcome+to+my+GitHub+profile!%22)" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -241,6 +241,6 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=120&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=140&section=footer&text=Keep%20Optimizing&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%" alt="Footer Banner" />
 
 </div>

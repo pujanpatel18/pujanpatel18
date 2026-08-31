@@ -100,6 +100,22 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
   <img src="./assets/animated-red-divider.gif" width="100%" alt="Animated red divider">
 </p>
 
+## 🚀 Featured Projects
+
+### 🤖 Astra AI
+
+**AI Assistant • Generative AI • Document & Multimodal Interaction**
+
+An interactive AI-powered conversational assistant built with Streamlit and Google Gemini, delivering intelligent chat with Google Search grounding. Features multimodal image understanding, conversational PDF and document analysis, speech-to-text voice input, text-to-speech voice output, persistent chat history, and seamless session export/import with file attachment handling.
+
+🧠 **Platform:** Streamlit + Google Gemini
+
+`Python`   `Streamlit`   `Google Gemini`   `LangChain`   `LangChain Community`   `FAISS`   `Sentence Transformers`   `PyPDF2`   `python-dotenv`
+
+<p align="center">
+  <img src="./assets/animated-red-divider.gif" width="100%" alt="Animated red divider">
+</p>
+
 ## 🖥️ Tech Arsenal
 
 <div align="center">

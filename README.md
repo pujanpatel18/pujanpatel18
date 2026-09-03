@@ -12,16 +12,6 @@
 
 <br/><br/>
 
-<!-- PROFILE METRICS & BADGES -->
-<p align="center">
-  <a href="https://github.com/pujanpatel18">
-    <img src="https://img.shields.io/github/followers/pujanpatel18?label=Followers&logo=github&style=for-the-badge&color=8A2BE2&labelColor=0D1117" alt="Followers" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=pujanpatel18&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS">
-    <img src="https://komarev.com/ghpvc/?username=pujanpatel18&color=9333EA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</p>
-
 </div>
 
 <p align="center">

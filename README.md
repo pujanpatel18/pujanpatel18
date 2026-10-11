@@ -90,6 +90,27 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
   <img src="./assets/animated-red-divider.gif" width="100%" alt="Animated red divider">
 </p>
 
+## Experience & Engagements
+
+### Software Engineering Intern — Digital Marketing & Web Development
+**One Web Solution** · May 2025 · Internship
+
+Worked in a professional environment focused on digital products, web technologies and digital marketing workflows.
+
+#### Scope of Work
+- Assisted with web-oriented development tasks
+- Worked with structured digital content
+- Supported website and online-product workflows
+- Collaborated within a professional development environment
+- Applied software and web-development concepts to practical tasks
+
+#### Skills
+`Web Development`   `Digital Marketing`   `Content Management`   `Software Engineering`
+
+<p align="center">
+  <img src="./assets/animated-red-divider.gif" width="100%" alt="Animated red divider">
+</p>
+
 ## 🚀 Featured Projects
 
 ### 🤖 Astra AI

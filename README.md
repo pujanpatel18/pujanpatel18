@@ -90,7 +90,7 @@ I'm an aspiring **Software Developer** currently learning **Full Stack Web Devel
   <img src="./assets/animated-red-divider.gif" width="100%" alt="Animated red divider">
 </p>
 
-## Experience & Engagements
+## 💼 Experience & Engagements
 
 ### Software Engineering Intern — Digital Marketing & Web Development
 **One Web Solution** · May 2025 · Internship
